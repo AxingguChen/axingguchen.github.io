@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+## Short bio
 
-You can use the [editor on GitHub](https://github.com/AxingguChen/axingguchen.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I obtained (2014) BSc in Computing Information Science from Guangdong University of Technology, China, and (2016) MSc in Computer Science and Engineering from Politecnico di Milano, Italy, respectively. After my masters, I joined UDBMS group in the Department of Computer Science at University of Helsinki as a doctoral student.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Currently, I am pursuing doctoral degree in the field of Multi-model Data and Big Data management.  I like problem modeling and programming. Also, I am enthusiastic for out-door activities, such as traveling, hiking, football, etc.
 
-### Markdown
+### Publication
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Zhang, Chao, Jiaheng Lu, Pengfei Xu, and **Yuxing Chen**. "UniBench: A Benchmark for Multi-Model Database Management Systems." (2018) TPCTC.
 
-```markdown
-Syntax highlighted code block
+**Chen, Yuxing**. "Worst Case Optimal Joins on Relational and XML data." Proceedings of the 2018 International Conference on Management of Data. ACM, 2018.
 
-# Header 1
-## Header 2
-### Header 3
+### R&D
+`Huawei` (Beijing,China & Helsinki,Finland): Optimizating Big Data Platform. December 2018 ~ present
 
-- Bulleted
-- List
+`Academy of Finland`: Holistic Query Optimization and Transaction Processing in Multi-model Data Management. June,2017 ~ present
 
-1. Numbered
-2. List
+`Huawei` (Toronto,Canada) HIRP: Heterogeneous Big Data Platform. March,2017 ~ April 2018
 
-**Bold** and _Italic_ and `Code` text
+### Contact
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AxingguChen/axingguchen.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+axinggu (at) google mail
