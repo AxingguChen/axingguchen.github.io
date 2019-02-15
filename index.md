@@ -8,12 +8,12 @@
 - **Yuxing, Chen**. "Worst Case Optimal Joins on Relational and XML data." Proceedings of the 2018 International Conference on Management of Data. ACM, (SIGMOD 2018) (**poster**).
 
 ### R&D
-- `Huawei` (Beijing,China): Optimization Big Data Platform. December,2018 ~ present
--- Challenges: On-the-fly big Spark cluster performance tuning
-- `Academy of Finland`: Holistic Query Optimization and Transaction Processing in Multi-model Data Management. June,2017 ~ present
--- Challenges: Data varieties: tabular, JSON, XML, graph, etc.
-- `Huawei` (Toronto,Canada) HIRP: Heterogeneous Big Data Platform. March,2017 ~ April,2018
--- Challenges: Big data platform (e.g. Hadoop, Spark) performance optimization (e.g., optimal contrainer/executor allocation)
+- `Huawei` (Beijing,China): Optimization Big Data Platform. December,2018 ~ present  
+ **Challenges**: On-the-fly big Spark cluster performance tuning
+- `Academy of Finland`: Holistic Query Optimization and Transaction Processing in Multi-model Data Management. June,2017 ~ present  
+ **Challenges**: Data varieties: tabular, JSON, XML, graph, etc.
+- `Huawei` (Toronto,Canada) HIRP: Heterogeneous Big Data Platform. March,2017 ~ April,2018  
+ **Challenges**: Big data platform (e.g. Hadoop, Spark) performance optimization (e.g., optimal contrainer/executor allocation)
 
 ### Contact
 axinggu (at) google mail
