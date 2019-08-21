@@ -14,7 +14,7 @@
  Topic: On-the-fly big Spark cluster performance tuning
 - `Academy of Finland`: Holistic Query Optimization and Transaction Processing in Multi-model Data Management. June,2017 ~ present  
  Topic: Data varieties: tabular, JSON, XML, graph, etc.
-- HIRP: Heterogeneous Big Data Platform. March,2017 ~ April,2018  
+- `HIRP`: Heterogeneous Big Data Platform. March,2017 ~ April,2018  
  Topic: Big data platform (e.g. Hadoop, Spark) performance optimization (e.g., optimal contrainer/executor allocation)
 
 ### Contact
