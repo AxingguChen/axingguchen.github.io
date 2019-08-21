@@ -4,15 +4,17 @@
 - BSc. in Computing information Science, Guangdong University of Technology, China, 2010 ~ 2014 
 
 ### Publication
-- Zhang, Chao, Jiaheng Lu, Pengfei Xu, and **Yuxing Chen**. "UniBench: A Benchmark for Multi-Model Database Management Systems." Tenth TPC Technology Conference on Performance Evaluation & Benchmarking (TPCTC 2018).
-- **Yuxing, Chen**. "Worst Case Optimal Joins on Relational and XML data." Proceedings of the 2018 International Conference on Management of Data. ACM, (SIGMOD 2018) (**poster**).
+- **Yuxing Chen**, Jiaheng Lu, Chen Chen, Mohammad Hoque, and Sasu Tarkoma. "Cost-effective Resource Provisioning for Spark Workloads" (CIKM short 2019).
+- Jiaheng Lu, **Yuxing Chen**, Herodotos Herodotou, and Shivnath Babu. "Speedup Your Analytics: Automatic Parameter Tuning for Databases and Big Data Systems" (VLDB tutorial 2019).
+- Zhang, Chao, Jiaheng Lu, Pengfei Xu, and **Yuxing Chen**. "UniBench: A Benchmark for Multi-Model Database Management Systems" (TPCTC 2018).
+- **Yuxing, Chen**. "Worst Case Optimal Joins on Relational and XML data" (SIGMOD SRC 2018).
 
 ### R&D
-- `Huawei` (Beijing,China): Optimization Big Data Platform. December,2018 ~ present  
+- `Huawei` project: Optimization Big Data Platform. December,2018 ~ present  
  **Challenges**: On-the-fly big Spark cluster performance tuning
-- `Academy of Finland` (Helsinki,Finland): Holistic Query Optimization and Transaction Processing in Multi-model Data Management. June,2017 ~ present  
+- `Academy of Finland`: Holistic Query Optimization and Transaction Processing in Multi-model Data Management. June,2017 ~ present  
  **Challenges**: Data varieties: tabular, JSON, XML, graph, etc.
-- `Huawei` (Toronto,Canada) HIRP: Heterogeneous Big Data Platform. March,2017 ~ April,2018  
+- HIRP: Heterogeneous Big Data Platform. March,2017 ~ April,2018  
  **Challenges**: Big data platform (e.g. Hadoop, Spark) performance optimization (e.g., optimal contrainer/executor allocation)
 
 ### Contact
