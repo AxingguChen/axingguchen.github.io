@@ -18,4 +18,4 @@
  Topic: Big data platform (e.g. Hadoop, Spark) performance optimization (e.g., optimal contrainer/executor allocation)
 
 ### Contact
-axinggu (at) google mail
+- axinggu (at) google mail
