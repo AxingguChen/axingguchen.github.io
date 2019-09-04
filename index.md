@@ -1,13 +1,13 @@
 ### Short bio
-- Ph.D. in multi-model and big data management, University of Helsinki, Finland, 2017 ~ present
+- Ph.D. in multi-model and big data management, University of Helsinki, Finland, 2017 ~ 2020 (hopefully)
 - MSc. in Computer Science and Engineering, Politecnico di Milano, Italy, 2014 ~ 2016
 - BSc. in Computing information Science, Guangdong University of Technology, China, 2010 ~ 2014 
 
 ### Publication
 - **Yuxing Chen**, Jiaheng Lu, Chen Chen, Mohammad Hoque, and Sasu Tarkoma. "Cost-effective Resource Provisioning for Spark Workloads" (CIKM 2019).
-- Jiaheng Lu, **Yuxing Chen**, Herodotos Herodotou, and Shivnath Babu. "Speedup Your Analytics: Automatic Parameter Tuning for Databases and Big Data Systems" (VLDB tutorial 2019).
-- Zhang, Chao, Jiaheng Lu, Pengfei Xu, and **Yuxing Chen**. "UniBench: A Benchmark for Multi-Model Database Management Systems" (TPCTC 2018).
-- **Yuxing, Chen**. "Worst Case Optimal Joins on Relational and XML data" (SIGMOD SRC 2018).
+- Jiaheng Lu, **Yuxing Chen**, Herodotos Herodotou, and Shivnath Babu. "Speedup Your Analytics: Automatic Parameter Tuning for Databases and Big Data Systems" (VLDB@Tutorial 2019).
+- Zhang, Chao, Jiaheng Lu, Pengfei Xu, and **Yuxing Chen**. "UniBench: A Benchmark for Multi-Model Database Management Systems" (VLDB@TPCTC 2018).
+- **Yuxing, Chen**. "Worst Case Optimal Joins on Relational and XML data" (SIGMOD@SRC 2018).
 
 ### R&D
 - `Huawei` project: Optimization Big Data Platform. December,2018 ~ present  
