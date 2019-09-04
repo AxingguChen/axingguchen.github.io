@@ -10,11 +10,11 @@
 - **Yuxing, Chen**. "Worst Case Optimal Joins on Relational and XML data" (SIGMOD@SRC 2018).
 
 ### R&D
-- `Huawei` project: Optimization Big Data Platform. December,2018 ~ present  
+- `Huawei` industry project: Optimization of Big Data Platform. December,2018 ~ present  
  Topic: On-the-fly big Spark cluster performance tuning
-- `Academy of Finland`: Holistic Query Optimization and Transaction Processing in Multi-model Data Management. June,2017 ~ present  
+- `Academy of Finland` research project: Holistic Query Optimization and Transaction Processing in Multi-model Data Management. June,2017 ~ present  
  Topic: Data varieties: tabular, JSON, XML, graph, etc.
-- `HIRP`: Heterogeneous Big Data Platform. March,2017 ~ April,2018  
+- `Huawei HIRP` open project: Heterogeneous Big Data Platform. March,2017 ~ April,2018  
  Topic: Big data platform (e.g. Hadoop, Spark) performance optimization (e.g., optimal contrainer/executor allocation)
 
 ### Contact
