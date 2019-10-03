@@ -1,7 +1,3 @@
----
-title: Yuxing Chen
----
-
 ### Research interests
 - Database, big data management, parameter tuning, worst-case optimal joins
 
