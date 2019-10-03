@@ -19,7 +19,7 @@
  Topic: Big data platform (e.g. Hadoop, Spark) performance optimization (e.g., optimal container/executor allocation)
 
 ### More
-Football, backpack, and guitar.
+- Football, backpack, and guitar.
 
 ### Contact
 - axinggu (at) google mail
