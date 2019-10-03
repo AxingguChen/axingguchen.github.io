@@ -1,4 +1,4 @@
-### Short bio
+### Education
 - Ph.D. in multi-model and big data management, University of Helsinki, Finland, 2017 ~ 2020 (hopefully)
 - MSc. in Computer Science and Engineering, Politecnico di Milano, Italy, 2014 ~ 2016
 - BSc. in Computing information Science, Guangdong University of Technology, China, 2010 ~ 2014 
