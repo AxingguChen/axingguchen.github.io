@@ -18,8 +18,12 @@
 - `Huawei HIRP` open project: Heterogeneous Big Data Platform. March,2017 ~ April,2018  
  Topic: Big data platform (e.g. Hadoop, Spark) performance optimization (e.g., optimal container/executor allocation)
 
+### More
+Football, backpack, and guitar.
+
 ### Contact
 - axinggu (at) google mail
+
 
 
 ------------
