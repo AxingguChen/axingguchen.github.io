@@ -1,5 +1,8 @@
+### Research interests
+- Database, big data management, parameter tuning, worst-case optimal joins
+
 ### Education
-- Ph.D. in multi-model and big data management, University of Helsinki, Finland, 2017 ~ 2020 (hopefully)
+- Ph.D. in multi-model and big data management, University of Helsinki, Finland, 2017 ~ present
 - MSc. in Computer Science and Engineering, Politecnico di Milano, Italy, 2014 ~ 2016
 - BSc. in Computing information Science, Guangdong University of Technology, China, 2010 ~ 2014 
 
