@@ -1,4 +1,4 @@
-### Short Bio
+[comment]: # (Short bio)
 
 #### Research interests
 - Database, big data management, parameter tuning, worst-case optimal joins
