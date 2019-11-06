@@ -12,7 +12,7 @@
 - **Yuxing Chen**, Peter Goetsch, Mohammad Hoque, Jiaheng Lu, Sasu Tarkoma. "d-Simplexed: Adaptive Delaunay Triangulation for Performance Modeling and Prediction on Big Data Analytics" (*IEEE Trans.* on Big Data 2019) [[OA]](https://ieeexplore.ieee.org/document/8878273)
 - **Yuxing Chen**, Jiaheng Lu, Chen Chen, Mohammad Hoque, and Sasu Tarkoma. "Cost-effective Resource Provisioning for Spark Workloads" (CIKM 2019). [[DL]](https://dl.acm.org/citation.cfm?id=3358090)
 - Jiaheng Lu, **Yuxing Chen**, Herodotos Herodotou, and Shivnath Babu. "Speedup Your Analytics: Automatic Parameter Tuning for Databases and Big Data Systems" (VLDB Tutorial 2019). [[DL]](https://dl.acm.org/citation.cfm?id=3360428)
-- Zhang, Chao, Jiaheng Lu, Pengfei Xu, and **Yuxing Chen**. "UniBench: A Benchmark for Multi-Model Database Management Systems" (TPCTC@VLDB) 2018.[[link]](https://link.springer.com/chapter/10.1007/978-3-030-11404-6_2)
+- Zhang, Chao, Jiaheng Lu, Pengfei Xu, and **Yuxing Chen**. "UniBench: A Benchmark for Multi-Model Database Management Systems" (TPCTC@VLDB) 2018. [[link]](https://link.springer.com/chapter/10.1007/978-3-030-11404-6_2)
 - **Yuxing Chen**. "Worst Case Optimal Joins on Relational and XML data" (SRC@SIGMOD) 2018. [[DL]](https://dl.acm.org/citation.cfm?id=3183721)
 
 
@@ -31,4 +31,4 @@
 
 ------------
 
-_Last update in October 2019_
+_Last update in November 2019_
