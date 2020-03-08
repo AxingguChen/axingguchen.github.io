@@ -21,8 +21,8 @@
  Topic: On-the-fly big Spark cluster/K8S performance tuning (optimal container/executor allocation)
 - `Academy of Finland` research project: Holistic Query Optimization and Transaction Processing in Multi-model Data Management. June,2017 ~ present  
  Topic: Query optimization with various data varieties: tabular, JSON, XML, graph, etc. (worst-case optimal join)
-- `Huawei HIRP` open project: Heterogeneous Big Data Platform. March,2017 ~ April,2018  
- Topic: Big data platform (e.g. Hadoop, Spark) performance optimization (optimal container/executor allocation)
+- `Huawei HIRP` open project: Optimization of Big Data Platform. March,2017 ~ April,2018  
+ Topic: Big data platform (e.g. Hive, Hadoop, Spark) performance optimization (optimal container/executor allocation)
 
 #### Contact
 - axinggu (at) google mail
