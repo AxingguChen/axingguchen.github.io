@@ -6,7 +6,7 @@
 #### Backgrounds
 - Ph.D. in multi-model and big data management, University of Helsinki, Finland, 2017 ~ present
 - MSc. in Computer Science and Engineering, Politecnico di Milano, Italy, 2014 ~ 2016
-- BSc. in Computing information Science, Guangdong University of Technology, China, 2010 ~ 2014 
+- BSc. in Information and Computing Science, Guangdong University of Technology, China, 2010 ~ 2014 
 
 #### Publications [[more]](https://scholar.google.com/citations?user=9nOJIrIAAAAJ&hl)
 - Herodotos Herodotou, **Yuxing Chen**, Jiaheng Lu. "A Survey on Automatic Parameter Tuning for Big Data Processing Systems" (To appear CSUR 2020)
