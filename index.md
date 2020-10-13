@@ -17,12 +17,12 @@
 
 
 #### R&Ds
-- `Huawei` industry project: Optimization of Big Data Platform. December,2018 ~ December,2019  
- Topic: On-the-fly big Spark cluster/K8S performance tuning (optimal container/executor allocation)
+ - `Oracle` gift funding: Multi-model database and Catgorty theory. 2020 ~ present  
+ Topic: Reseach on query process in different data model. 
 - `Academy of Finland` research project: Holistic Query Optimization and Transaction Processing in Multi-model Data Management. June,2017 ~ present  
  Topic: Query optimization with various data varieties: tabular, JSON, XML, graph, etc. (worst-case optimal join)
-- `Huawei HIRP` open project: Optimization of Big Data Platform. March,2017 ~ April,2018  
- Topic: Big data platform (e.g. Hive, Hadoop, Spark) performance optimization (optimal container/executor allocation)
+- `Huawei HIRP` open project: Optimization of Big Data Platform. March,2017 ~ December,2019
+ Topic: Big data platform (e.g. Hive, Hadoop, Spark in Yarn/K8s) performance optimization (cost-effective container/executor allocation)
 
 #### Contact
 - axinggu (at) google mail
@@ -31,4 +31,4 @@
 
 ------------
 
-_Last update in February 2020_
+_Last update in October 2020_
