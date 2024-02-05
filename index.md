@@ -24,7 +24,7 @@ Research engineer at TDSQL, Tencent Inc., China, 2021 ~ present
 
 
 #### R&Ds
-- `Tencent` database research: Industry-Academia-Research. 2021 ~ now
+- `Tencent` DB research: Industry-Academia-Research. 2021 ~ now
  Topic: Transaction processing and storage optimization in distributed databases.
 - `Oracle` gift funding: Multi-model database and Category theory. 2020 ~ 2021  
  Topic: Research on query process in different data models. 
