@@ -28,7 +28,7 @@ Research engineer at TDSQL, Tencent Inc., China, 2021 ~ present
  Topic: Transaction processing and storage optimization in distributed databases.
 - `Oracle` gift funding: Multi-model database and Category theory. 2020 ~ 2021  
  Topic: Research on query process in different data models. 
-- `Academy of Finland` research project: Holistic Query Optimization and Transaction Processing in Multi-model Data Management. June,2017 ~ present  
+- `Academy of Finland` research project: Holistic Query Optimization and Transaction Processing in Multi-model Data Management. June,2017 ~ 2021 
  Topic: Query optimization with various data varieties: tabular, JSON, XML, graph, etc. (worst-case optimal join)
 - `Huawei HIRP` project: Optimization of Big Data Platform. 2017 ~ 2019
  Topic: Big data platform (e.g. Hive, Hadoop, Spark in Yarn/K8s) performance optimization (cost-effective container/executor allocation)
