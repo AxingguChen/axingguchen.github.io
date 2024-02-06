@@ -4,7 +4,7 @@
 - Database, big data management
 
 #### Working
-Research engineer at TDSQL, Tencent Inc., China, 2021 ~ present
+- Research engineer at TDSQL, Tencent Inc., China, 2021 ~ present
 
 #### Backgrounds
 - Ph.D. in multi-model and big data management, University of Helsinki, Finland, 2017 ~ 2021
@@ -13,8 +13,8 @@ Research engineer at TDSQL, Tencent Inc., China, 2021 ~ present
 
 #### Publications [[more]](https://scholar.google.com/citations?user=9nOJIrIAAAAJ&hl)
 - (VLDB 2024). Ziyi Lu, Qiang Cao, Hong Jiang, **Yuxing Chen**, Jie Yao, and Anqun Pan. "FluidKV: Seamlessly Bridging the Gap between Indexing Performance and Memory-Footprint on Ultra-Fast Storage." 
-- (SIGMOD 2023). [[link]](https://dl.acm.org/doi/10.1145/3626765) Guan, Jiawei, Feng Zhang, Siqi Ma, Kuangyu Chen, Yihua Hu, **Yuxing Chen**, Anqun Pan, and Xiaoyong Du. "Homomorphic Compression: Making Text Processing on Compression Unlimited." 
-- (SIGMOD 2023). [[link]](https://dl.acm.org/doi/10.1145/3626752) Ge, Jiake, Huanchen Zhang, Boyu Shi, Yuanhui Luo, Yunda Guo, Yunpeng Chai, **Yuxing Chen**, and Anqun Pan. "SALI: A Scalable Adaptive Learned Index Framework based on Probability Models." 
+- (SIGMOD 2023). [[link]](https://dl.acm.org/doi/10.1145/3626765) Jiawei Guan, Feng Zhang, Siqi Ma, Kuangyu Chen, Yihua Hu, **Yuxing Chen**, Anqun Pan, and Xiaoyong Du. "Homomorphic Compression: Making Text Processing on Compression Unlimited." 
+- (SIGMOD 2023). [[link]](https://dl.acm.org/doi/10.1145/3626752) Jiake Ge, Huanchen Zhang, Boyu Shi, Yuanhui Luo, Yunda Guo, Yunpeng Chai, **Yuxing Chen**, and Anqun Pan. "SALI: A Scalable Adaptive Learned Index Framework based on Probability Models." 
 - (VLDB 2023). [[link]](https://www.vldb.org/pvldb/vol17/p617-liu.pdf) Qian Ge, Yu Liu, Yinghao Zhao, Yuetian Sun, Lei Zou, **Yuxing Chen**, Anqun Pan. "Efficient and Accurate SimRank-based Similarity Joins: Experiments, Analysis, and Improvement." 
 - (ICDE Tutorial 2022). [[link]](https://www.vldb.org/pvldb/vol17/p617-liu.pdf) Herodotou, Herodotos, Lambros Odysseos, **Yuxing Chen**, and Jiaheng Lu. "Automatic performance tuning for distributed data stream processing systems." 
 - (DASFAA 2022). [[link]](https://www.springerprofessional.de/en/cross-model-conjunctive-queries-over-relation-and-tree-structure/20346184) **Chen, Yuxing}**, Valter Uotila, Jiaheng Lu, Zhen Hua Liu, and Souripriya Das. "Cross-Model Conjunctive Queries over Relation and Tree-Structured Data." 
