@@ -12,8 +12,7 @@
 - BSc. in Information and Computing Science, Guangdong University of Technology, China, 2010 ~ 2014 
 
 #### Publications [[more]](https://scholar.google.com/citations?user=9nOJIrIAAAAJ&hl)
-- (VLDB 2024) **Yuxing Chen**, Anqun Pan, Hailin Lei, Anda Ye, Shuo Han, Yan Tang, Wei Lu, Yunpeng Chai, Feng Zhang, and Xiaoyong Du. "TDSQL: Tencent Distributed Database System."
-- (VLDB 2024) [[link]](https://dl.acm.org/doi/10.14778/3648160.3648177) Ziyi Lu, Qiang Cao, Hong Jiang, **Yuxing Chen**, Jie Yao, and Anqun Pan. "FluidKV: Seamlessly Bridging the Gap between Indexing Performance and Memory-Footprint on Ultra-Fast Storage."
+- (VLDB 2024) [[link]](https://dl.acm.org/doi/10.14778/3685800.3685812) **Yuxing Chen**, Anqun Pan, Hailin Lei, Anda Ye, Shuo Han, Yan Tang, Wei Lu, Yunpeng Chai, Feng Zhang, and Xiaoyong Du. "TDSQL: Tencent Distributed Database System."
 - (ICDE 2024) [[link]](https://www.computer.org/csdl/proceedings-article/icde/2024/171500a516/1YOtYjA4kTu) Chen Zhong, Qingqing Zhou, **Yuxing Chen**, Xingsheng Zhao, Kuang He, Anqun Pan, Song Jiang. "IndeXY: A Framework for Constructing Indexes Larger than Memory."
 - (SIGMOD 2023) [[link]](https://dl.acm.org/doi/10.1145/3626752) Jiake Ge, Huanchen Zhang, Boyu Shi, Yuanhui Luo, Yunda Guo, Yunpeng Chai, **Yuxing Chen**, and Anqun Pan. "SALI: A Scalable Adaptive Learned Index Framework based on Probability Models." 
 - (DASFAA 2022) [[link]](https://www.springerprofessional.de/en/cross-model-conjunctive-queries-over-relation-and-tree-structure/20346184) **Yuxing Chen**, Valter Uotila, Jiaheng Lu, Zhen Hua Liu, and Souripriya Das. "Cross-Model Conjunctive Queries over Relation and Tree-Structured Data." 
