@@ -30,6 +30,19 @@
 - `Huawei HIRP` project: Optimization of Big Data Platform. 2017 ~ 2019  
  Topic: Big data platform (e.g. Hive, Hadoop, Spark in Yarn/K8s) performance optimization (cost-effective container/executor allocation)
 
+
+#### Talks
+- 2025.05 Hong Kong, China SAR, ICDE Sponsor talk "Research on Transaction Processing at Tencent"
+- 2024.09 Guangzhou, China, VLDB Research talk "TDSQL: Tencent Distributed Database System" [[slides]](slides/20240827-vldb-industry-TDSQL-Tencent-Distributed-Database-System.pptx)
+- 2024.09 Guangzhou, China, VLDB Sponsor talk "Research and Applications of Tencent Database Systems" [[slides]](slides/20240827-vldb-sponsor-Research-and-Applications-of-Tencent-Database-Systems.pptx)
+- 2024.05 Utrecht, Utrecht, ICDE Research talk "IndeXY: A Framework for Constructing Indexes Larger than Memory" [[slides]](slides/20240514-icde-IndeXY.pptx)
+- 2024.05 Utrecht, Utrecht, ICDE Sponsor talk "Research and Applications of Tencent Database Systems" [[slides]](slides/20240514-icde-sponsor-talk.pptx)
+- 2022.09 (Virtual) Sydney, Australia, VLDB Sponsor talk "Consistency Checking for Transactional Databases" [[slides]](slides/20220906_yuxing_sponsor_talk.pptx)
+- 2022.05 (Virtual) Kuala Lumpur, Malaysia, ICDE Tutorial talk "Automatic Performance Tuning for Distributed Data Stream Processing Systems" [[slides]](slides/20220510-icde-tutorial-automatic_performance_tuning_for_distributed_data_stream_processing_systems.pdf)
+- 2022.04 (Virtual) Hyderabad, India, DASFAA research talk "Cross-Model Conjunctive Queries over Relation and Tree-Structured Data" [[slides]](slides/20220412-dasfaa_Cross_Model_Conjunctive_Queries_Yuxing.pdf)
+- 2019.08 Los Angeles, USA, VLDB Tutorial talk "Speedup Your Analytics: Automatic Parameter Tuning for Databases and Big Data Systems" [[slides]](slides/20190828-vldb-turorial_presentation_version.pdf)
+
+
 #### Contact
 - axinggu (at) gmail (dot) com
 
@@ -37,4 +50,4 @@
 
 ------------
 
-_Last update in August 2024_
+_Last update in April 2025_
