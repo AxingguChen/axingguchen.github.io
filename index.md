@@ -12,6 +12,8 @@
 - BSc. in Information and Computing Science, Guangdong University of Technology, China, 2010 ~ 2014 
 
 #### Publications [[more]](https://scholar.google.com/citations?user=9nOJIrIAAAAJ&hl)
+- (SIGMOD 2025)  Donghui Wang, **Yuxing Chen**, Chengyao Jiang, Anqun Pan, Wei Jiang, Songli Wang, Hailin Lei, Chong Zhu, Lixiong Zheng, Wei Lu, Yunpeng Chai, Feng Zhang, and Xiaoyong Du. "TXSQL: Lock Optimizations Towards High Contented Workloads"
+- (ICDE 2025) Hengfeng Wei, Jiang Xiao, Na Yang, Si Liu, Zijing Yin, **Yuxing Chen**, Anqun Pan. "Boosting End-to-End Database Isolation Checking via Mini-Transactions"
 - (VLDB 2024) [[link]](https://dl.acm.org/doi/10.14778/3685800.3685812) **Yuxing Chen**, Anqun Pan, Hailin Lei, Anda Ye, Shuo Han, Yan Tang, Wei Lu, Yunpeng Chai, Feng Zhang, and Xiaoyong Du. "TDSQL: Tencent Distributed Database System."
 - (ICDE 2024) [[link]](https://www.computer.org/csdl/proceedings-article/icde/2024/171500a516/1YOtYjA4kTu) Chen Zhong, Qingqing Zhou, **Yuxing Chen**, Xingsheng Zhao, Kuang He, Anqun Pan, Song Jiang. "IndeXY: A Framework for Constructing Indexes Larger than Memory."
 - (SIGMOD 2023) [[link]](https://dl.acm.org/doi/10.1145/3626752) Jiake Ge, Huanchen Zhang, Boyu Shi, Yuanhui Luo, Yunda Guo, Yunpeng Chai, **Yuxing Chen**, and Anqun Pan. "SALI: A Scalable Adaptive Learned Index Framework based on Probability Models." 
