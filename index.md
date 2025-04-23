@@ -13,10 +13,10 @@
 
 #### Publications [[more]](https://scholar.google.com/citations?user=9nOJIrIAAAAJ&hl)
 - (SIGMOD 2025)  Donghui Wang, **Yuxing Chen**, Chengyao Jiang, Anqun Pan, Wei Jiang, Songli Wang, Hailin Lei, Chong Zhu, Lixiong Zheng, Wei Lu, Yunpeng Chai, Feng Zhang, and Xiaoyong Du. "TXSQL: Lock Optimizations Towards High Contented Workloads"
-- (ICDE 2025) Hengfeng Wei, Jiang Xiao, Na Yang, Si Liu, Zijing Yin, **Yuxing Chen**, Anqun Pan. "Boosting End-to-End Database Isolation Checking via Mini-Transactions"
+<!--- - (ICDE 2025) Hengfeng Wei, Jiang Xiao, Na Yang, Si Liu, Zijing Yin, **Yuxing Chen**, Anqun Pan. "Boosting End-to-End Database Isolation Checking via Mini-Transactions"-->
 - (VLDB 2024) [[link]](https://dl.acm.org/doi/10.14778/3685800.3685812) **Yuxing Chen**, Anqun Pan, Hailin Lei, Anda Ye, Shuo Han, Yan Tang, Wei Lu, Yunpeng Chai, Feng Zhang, and Xiaoyong Du. "TDSQL: Tencent Distributed Database System."
-- (ICDE 2024) [[link]](https://www.computer.org/csdl/proceedings-article/icde/2024/171500a516/1YOtYjA4kTu) Chen Zhong, Qingqing Zhou, **Yuxing Chen**, Xingsheng Zhao, Kuang He, Anqun Pan, Song Jiang. "IndeXY: A Framework for Constructing Indexes Larger than Memory."
-- (SIGMOD 2023) [[link]](https://dl.acm.org/doi/10.1145/3626752) Jiake Ge, Huanchen Zhang, Boyu Shi, Yuanhui Luo, Yunda Guo, Yunpeng Chai, **Yuxing Chen**, and Anqun Pan. "SALI: A Scalable Adaptive Learned Index Framework based on Probability Models." 
+<!--- - (ICDE 2024) [[link]](https://www.computer.org/csdl/proceedings-article/icde/2024/171500a516/1YOtYjA4kTu) Chen Zhong, Qingqing Zhou, **Yuxing Chen**, Xingsheng Zhao, Kuang He, Anqun Pan, Song Jiang. "IndeXY: A Framework for Constructing Indexes Larger than Memory." -->
+<!--- - (SIGMOD 2023) [[link]](https://dl.acm.org/doi/10.1145/3626752) Jiake Ge, Huanchen Zhang, Boyu Shi, Yuanhui Luo, Yunda Guo, Yunpeng Chai, **Yuxing Chen**, and Anqun Pan. "SALI: A Scalable Adaptive Learned Index Framework based on Probability Models." -->
 - (DASFAA 2022) [[link]](https://www.springerprofessional.de/en/cross-model-conjunctive-queries-over-relation-and-tree-structure/20346184) **Yuxing Chen**, Valter Uotila, Jiaheng Lu, Zhen Hua Liu, and Souripriya Das. "Cross-Model Conjunctive Queries over Relation and Tree-Structured Data." 
 - (CSUR 2020) [[link]](https://ieeexplore.ieee.org/document/9835493) Herodotos Herodotou, **Yuxing Chen**, Jiaheng Lu. "A Survey on Automatic Parameter Tuning for Big Data Processing Systems" 
 - (IEEE Transaction on Big Data 2019) [[link]](https://ieeexplore.ieee.org/document/8878273) **Yuxing Chen**, Peter Goetsch, Mohammad Hoque, Jiaheng Lu, Sasu Tarkoma. "d-Simplexed: Adaptive Delaunay Triangulation for Performance Modeling and Prediction on Big Data Analytics" 
