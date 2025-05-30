@@ -34,7 +34,7 @@
 
 
 #### Talks
-- 2025.05 Hong Kong, China SAR, ICDE Sponsor talk "Research on Transaction Processing at Tencent"
+- 2025.05 Hong Kong, China SAR, ICDE Sponsor talk "Research on Transaction Processing at Tencent" [[slides]](20250520-Research-on-Transction-Processing-at-Tencent.pptx)
 - 2025.03 Beijing, China, Renmin University of China DEKE invited talk "Lock Optimizations Towards High Contented Workloads" [[slides]](slides/20250321-ruc-TXSQL-talk.pptx)(CN)
 - 2024.09 Guangzhou, China, VLDB Research talk "TDSQL: Tencent Distributed Database System" [[slides]](slides/20240827-vldb-industry-TDSQL-Tencent-Distributed-Database-System.pptx)
 - 2024.09 Guangzhou, China, VLDB Sponsor talk "Research and Applications of Tencent Database Systems" [[slides]](slides/20240827-vldb-sponsor-Research-and-Applications-of-Tencent-Database-Systems.pptx)
@@ -56,4 +56,4 @@
 
 ------------
 
-_Last update in April 2025_
+_Last update in May 2025_
