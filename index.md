@@ -27,14 +27,14 @@
  Topic: Transaction processing and storage optimization in distributed databases.
 - `Oracle` gift funding: Multi-model database and Category theory. 2020 ~ 2021  
  Topic: Research the query process in different data models. 
-- `Academy of Finland` research project: Holistic Query Optimization and Transaction Processing in Multi-model Data Management. June,2017 ~ 2021  
+- `Academy of Finland` research project: Holistic Query Optimization and Transaction Processing in Multi-model Data Management. 2017 ~ 2021  
   Topic: Query optimization with various data varieties: tabular, JSON, XML, graph, etc. (worst-case optimal join)
 - `Huawei HIRP` project: Optimization of Big Data Platform. 2017 ~ 2019  
- Topic: Big data platform (e.g. Hive, Hadoop, Spark in Yarn/K8s) performance optimization (cost-effective container/executor allocation)
+ Topic: Big data platform (e.g., Hive, Hadoop, Spark in Yarn/K8s) performance optimization (cost-effective container/executor allocation)
 
 
 #### Talks
-- 2025.05 Hong Kong, China SAR, ICDE Sponsor talk "Research on Transaction Processing at Tencent" [[slides]](20250520-Research-on-Transction-Processing-at-Tencent.pptx)
+- 2025.05 Hong Kong, China SAR, ICDE Sponsor talk "Research on Transaction Processing at Tencent" [[slides]](slides/20250520-Research-on-Transction-Processing-at-Tencent.pptx)
 - 2025.03 Beijing, China, Renmin University of China DEKE invited talk "Lock Optimizations Towards High Contented Workloads" [[slides]](slides/20250321-ruc-TXSQL-talk.pptx)(CN)
 - 2024.09 Guangzhou, China, VLDB Research talk "TDSQL: Tencent Distributed Database System" [[slides]](slides/20240827-vldb-industry-TDSQL-Tencent-Distributed-Database-System.pptx)
 - 2024.09 Guangzhou, China, VLDB Sponsor talk "Research and Applications of Tencent Database Systems" [[slides]](slides/20240827-vldb-sponsor-Research-and-Applications-of-Tencent-Database-Systems.pptx)
@@ -56,4 +56,4 @@
 
 ------------
 
-_Last update in May 2025_
+_Last update in June 2025_
