@@ -52,7 +52,7 @@
 #### Contact
 - axinggu (at) gmail (dot) com
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=-nE-NiCSCd9vICliUEi2sGRRJpIC5GhYQOC0k5xWVLM&cl=ffffff&w=a"></script>
+<!--- <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=-nE-NiCSCd9vICliUEi2sGRRJpIC5GhYQOC0k5xWVLM&cl=ffffff&w=a"></script> -->
 
 <!---<a href="https://clustrmaps.com/site/1c6pi"  title="ClustrMaps"><img src="//www.clustrmaps.com/map_v2.png?d=-nE-NiCSCd9vICliUEi2sGRRJpIC5GhYQOC0k5xWVLM&cl=ffffff" /></a> -->
 
