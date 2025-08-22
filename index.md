@@ -36,13 +36,13 @@
 
 #### R&Ds
 - Transaction processing and storage optimization in distributed databases  
-  `Tencent`: Industry-Academia-Research. 2021 ~ now  
+  [2021 ~ now] `Tencent`: Industry-Academia-Research.   
 - Research the query process in different data models  
-  `Oracle`: Multi-model database and Category theory. 2020 ~ 2021  
+  [2020 ~ 2021 ] `Oracle`: Multi-model database and Category theory.  
 - Query optimization with various data varieties: tabular, JSON, XML, graph, etc. (worst-case optimal join)  
-  `Academy of Finland`: Holistic Query Optimization and Transaction Processing in Multi-model Data Management. 2017 ~ 2021  
+  [2017 ~ 2021] `Academy of Finland`: Holistic Query Optimization and Transaction Processing in Multi-model Data Management.   
 - Big data platform (e.g., Hive, Hadoop, Spark in Yarn/K8s) performance optimization (cost-effective container/executor allocation)  
-  `Huawei HIRP`: Optimization of Big Data Platform. 2017 ~ 2019  
+  [2017 ~ 2019 ] `Huawei HIRP`: Optimization of Big Data Platform.  
  
 
 
