@@ -4,12 +4,12 @@
 - Database, big data management
 
 #### Working
-- [2021 ~ now] Research engineer at TDSQL, Tencent Inc., China, 
+- [2021.04 ~ now] Research engineer at TDSQL, Tencent Inc., China, 
 
 #### Backgrounds
-- [2017 ~ 2021] Ph.D. in multi-model and big data management (supervised by [[Jiaheng Lu]](https://www.cs.helsinki.fi/u/jilu/)), University of Helsinki, Finland
-- [2014 ~ 2016] MSc. in Computer Science and Engineering, Politecnico di Milano, Italy
-- [2010 ~ 2014] BSc. in Information and Computing Science, Guangdong University of Technology, China
+- [2017.03 ~ 2021.12] Ph.D. in multi-model and big data management (supervised by [[Jiaheng Lu]](https://www.cs.helsinki.fi/u/jilu/)), University of Helsinki, Finland
+- [2014.09 ~ 2016.12] MSc. in Computer Science and Engineering, Politecnico di Milano, Italy
+- [2010.09 ~ 2014.06] BSc. in Information and Computing Science, Guangdong University of Technology, China
 
 #### Publications [[scholar]](https://scholar.google.com/citations?user=9nOJIrIAAAAJ&hl)
 - "TXSQL: Lock Optimizations Towards High Contented Workloads"  
@@ -38,11 +38,11 @@
 - Transaction processing and storage optimization in distributed databases  
   [2021 ~ now] `Tencent`: Industry-Academia-Research.   
 - Research the query process in different data models  
-  [2020 ~ 2021 ] `Oracle`: Multi-model database and Category theory.  
+  [2020 ~ 2021] `Oracle`: Multi-model database and Category theory.  
 - Query optimization with various data varieties: tabular, JSON, XML, graph, etc. (worst-case optimal join)  
   [2017 ~ 2021] `Academy of Finland`: Holistic Query Optimization and Transaction Processing in Multi-model Data Management.   
 - Big data platform (e.g., Hive, Hadoop, Spark in Yarn/K8s) performance optimization (cost-effective container/executor allocation)  
-  [2017 ~ 2019 ] `Huawei HIRP`: Optimization of Big Data Platform.  
+  [2017 ~ 2019] `Huawei HIRP`: Optimization of Big Data Platform.  
  
 
 
