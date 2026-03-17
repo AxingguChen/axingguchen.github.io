@@ -12,6 +12,9 @@
 - [2010.09 ~ 2014.06] BSc. in Information and Computing Science, Guangdong University of Technology, China
 
 #### Publications [[scholar]](https://scholar.google.com/citations?user=9nOJIrIAAAAJ&hl)
+- "TDSQL-Boundless: A Distributed Database System for Large-scale Heterogeneous Multi-Table Workloads."
+  **Yuxing Chen**, Jie Jiang, Xiaolong He, Ziyi Lu, Shuo Han, Anqun Pan, Chong Zhu, Chang Liu, Xuan Zhao, Yu Li, Yan Tang, Dongzhi Zhao, Wen Zhang, Hailin Lei, Lixiong Zheng, Feng Zhang, Mingde Zhang, Yiteng Chu, WeiLu, Yunpeng Chai, Xiaoyong Du.  
+  [[link]](https://2026.sigmod.org/sigmod_industry_papers.shtml) SIGMOD 2026
 - "TXSQL: Lock Optimizations Towards High Contented Workloads"  
   Donghui Wang, **Yuxing Chen**, Chengyao Jiang, Anqun Pan, Wei Jiang, Songli Wang, Hailin Lei, Chong Zhu, Lixiong Zheng, Wei Lu, Yunpeng Chai, Feng Zhang, and Xiaoyong Du.  
   [[link]](https://dl.acm.org/doi/10.1145/3722212.3724457) SIGMOD 2025  
