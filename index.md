@@ -4,7 +4,7 @@
 - Database, big data management
 
 #### Working
-- [2021.04 ~ now] Research engineer at TDSQL, Tencent Inc., China, 
+- [2021.04 ~ now] Research engineer at TDSQL, Tencent Inc., China 
 
 #### Backgrounds
 - [2017.03 ~ 2021.12] Ph.D. in multi-model and big data management (supervised by [[Jiaheng Lu]](https://www.cs.helsinki.fi/u/jilu/)), University of Helsinki, Finland
@@ -12,9 +12,12 @@
 - [2010.09 ~ 2014.06] BSc. in Information and Computing Science, Guangdong University of Technology, China
 
 #### Publications [[Scholar]](https://scholar.google.com/citations?user=9nOJIrIAAAAJ&hl) [[DBLP]](https://dblp.org/pid/142/2150-3.html)
-- "TDSQL-Boundless: A Distributed Database System for Large-scale Heterogeneous Multi-Table Workloads."
+- "Reaching the Pinnacle of TPC-DS: Co-design of Architecture, Executor, and Storage in TDSQL"  
+  Yiteng Chu, Jie Jiang, **Yuxing Chen**, Feng Zhang, Yuxin Tang, Anqun Pan, Xin Wu, Xiang Hu, Hailin Lei, Qian Zhang, Ziyan Lin, Xiaoliang Yan, Xiaojian Fan, Liang Zhang, Bin Qu, Wen Zhang, Mengbang Xing, Lixiong Zheng, Wei Lu, Yunpeng Chai, Xiaoyong Du.  
+  [[link]](https://) VLDB 2026 (to appear) 
+- "TDSQL-Boundless: A Distributed Database System for Large-scale Heterogeneous Multi-Table Workloads"  
   **Yuxing Chen**, Jie Jiang, Xiaolong He, Ziyi Lu, Shuo Han, Anqun Pan, Chong Zhu, Chang Liu, Xuan Zhao, Yu Li, Yan Tang, Dongzhi Zhao, Wen Zhang, Hailin Lei, Lixiong Zheng, Feng Zhang, Mingde Zhang, Yiteng Chu, Wei Lu, Yunpeng Chai, Xiaoyong Du.  
-  [[link]](https://2026.sigmod.org/sigmod_industry_papers.shtml) SIGMOD 2026
+  [[link]](https://2026.sigmod.org/sigmod_industry_papers.shtml) SIGMOD 2026 (to appear) 
 - "TXSQL: Lock Optimizations Towards High Contented Workloads"  
   Donghui Wang, **Yuxing Chen**, Chengyao Jiang, Anqun Pan, Wei Jiang, Songli Wang, Hailin Lei, Chong Zhu, Lixiong Zheng, Wei Lu, Yunpeng Chai, Feng Zhang, and Xiaoyong Du.  
   [[link]](https://dl.acm.org/doi/10.1145/3722212.3724457) SIGMOD 2025  
@@ -50,6 +53,7 @@
 
 
 #### Talks
+- 2026.06 Bengaluru, India, SIGMOD Research talk "Research on Transaction Processing at Tencent" [[slides]](slides/20260531_sigmod_TDSQL_Boundless.pdf)
 - 2025.05 Hong Kong, China SAR, ICDE Sponsor talk "Research on Transaction Processing at Tencent" [[slides]](slides/20250520-Research-on-Transction-Processing-at-Tencent.pptx)
 - 2025.03 Beijing, China, Renmin University of China DEKE invited talk "Lock Optimizations Towards High Contented Workloads" [[slides]](slides/20250321-ruc-TXSQL-talk.pptx)(CN)
 - 2024.09 Guangzhou, China, VLDB Research talk "TDSQL: Tencent Distributed Database System" [[slides]](slides/20240827-vldb-industry-TDSQL-Tencent-Distributed-Database-System.pptx)
