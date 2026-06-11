@@ -14,7 +14,16 @@
 #### Publications [[Scholar]](https://scholar.google.com/citations?user=9nOJIrIAAAAJ&hl) [[DBLP]](https://dblp.org/pid/142/2150-3.html)
 - "Reaching the Pinnacle of TPC-DS: Co-design of Architecture, Executor, and Storage in TDSQL"  
   Yiteng Chu, Jie Jiang, **Yuxing Chen**, Feng Zhang, Yuxin Tang, Anqun Pan, Xin Wu, Xiang Hu, Hailin Lei, Qian Zhang, Ziyan Lin, Xiaoliang Yan, Xiaojian Fan, Liang Zhang, Bin Qu, Wen Zhang, Mengbang Xing, Lixiong Zheng, Wei Lu, Yunpeng Chai, Xiaoyong Du.  
-  [[link]](https://) VLDB 2026 (to appear) 
+  [[link]](https://) VLDB 2026 (to appear)
+- "Fast Verification of Strong Database Isolation"  
+  Zhiheng Cai, Si Liu, Hengfeng Wei, **Yuxing Chen**, Anqun Pan.  
+  [[link]](https://dl.acm.org/doi/10.14778/3785297.3785300) VLDB 2026
+- "Pisco: An Isolation Bug Case Reduction and Deduplication Framework"  
+  Siyang Weng, Hongyu Yang, Zirui Hu, Rong Zhang, Zhicheng Pan, Chengcheng Yang, Xuan Zhou, **Yuxing Chen**, Xiaolong He, Anqun Pan.  
+  [[link]](https://dl.acm.org/doi/10.14778/3797919.3797944) VLDB 2026
+- "Shard: A Scalable and Resize-Optimized Hash Index on Disaggregated Memory"  
+  Hantian Zha, Teng Ma, Baotong Lu, Yuansen Wang, Dongbiao He, Yuanhui Luo, Dafang Zhang, Yunpeng Chai, **Yuxing Chen**, Anqun Pan.  
+  [[link]](https://dl.acm.org/doi/10.14778/3785297.3785309) VLDB 2026 
 - "TDSQL-Boundless: A Distributed Database System for Large-scale Heterogeneous Multi-Table Workloads"  
   **Yuxing Chen**, Jie Jiang, Xiaolong He, Ziyi Lu, Shuo Han, Anqun Pan, Chong Zhu, Chang Liu, Xuan Zhao, Yu Li, Yan Tang, Dongzhi Zhao, Wen Zhang, Hailin Lei, Lixiong Zheng, Feng Zhang, Mingde Zhang, Yiteng Chu, Wei Lu, Yunpeng Chai, Xiaoyong Du.  
   [[link]](https://dl.acm.org/doi/10.1145/3788853.3803090) SIGMOD 2026
@@ -24,33 +33,66 @@
 - "TXSQL: Lock Optimizations Towards High Contented Workloads"  
   Donghui Wang, **Yuxing Chen**, Chengyao Jiang, Anqun Pan, Wei Jiang, Songli Wang, Hailin Lei, Chong Zhu, Lixiong Zheng, Wei Lu, Yunpeng Chai, Feng Zhang, and Xiaoyong Du.  
   [[link]](https://dl.acm.org/doi/10.1145/3722212.3724457) SIGMOD 2025
+- "TxnSails: Achieving Serializable Transaction Scheduling with Self-Adaptive Isolation Level Selection"  
+  Qiyu Zhuang, Wei Lu, Shuang Liu, **Yuxing Chen**, Xinyue Shi, Zhanhao Zhao, Yipeng Sun, Anqun Pan, Xiaoyong Du.  
+  [[link]](https://dl.acm.org/doi/10.14778/3749646.3749689) VLDB 2025
+- "A Hybrid Approach to Integrating Deterministic and Non-deterministic Concurrency Control in Database Systems"
+  Yinhao Hong, Hongyao Zhao, Wei Lu, Xiaoyong Du, **Yuxing Chen**, Anqun Pan, Lixiong Zheng.  
+  [[link]](https://dl.acm.org/doi/abs/10.14778/3718057.3718066) VLDB 2025
 - "Online Timestamp-Based Transactional Isolation Checking of Database Systems"  
   Hexu Li, Hengfeng Wei, Hongrong Ouyang, **Yuxing Chen**, Na Yang, Ruohao Zhang, Anqun Pan.  
   [[link]](https://ieeexplore.ieee.org/document/11113202) ICDE 2025
 - "Boosting End-to-End Database Isolation Checking via Mini-Transactions"  
   Hengfeng Wei, Jiang Xiao, Na Yang, Si Liu, Zijing Yin, **Yuxing Chen**, Anqun Pan.  
   [[link]](https://ieeexplore.ieee.org/document/11113167/) ICDE 2025
-<!--- - (ICDE 2025) Hengfeng Wei, Jiang Xiao, Na Yang, Si Liu, Zijing Yin, **Yuxing Chen**, Anqun Pan. "Boosting End-to-End Database Isolation Checking via Mini-Transactions"-->
+- "Lion: Minimizing Distributed Transactions Through Adaptive Replica Provision"  
+  Qiushi Zheng, Zhanhao Zhao, Wei Lu, Chang Yao, **Yuxing Chen**, Anqun Pan.  
+  [[link]](https://ieeexplore.ieee.org/document/10598008) ICDE 2025
+- "GeoTP: Latency-Aware Geo-Distributed Transaction Processing in Database Middlewares"  
+  Qiyu Zhuang, Xinyue Shi, Shuang Liu, Wei Lu, Zhanhao Zhao, **Yuxing Chen**, Tong Li, Anqun Pan, Xiaoyong Du.  
+  [[link]](https://ieeexplore.ieee.org/document/11113150) ICDE 2025
+- "Homomorphic Compression: Making Text Processing on Compression Unlimited"  
+   Jiawei Guan, Feng Zhang, Siqi Ma, Kuangyu Chen, Yihua Hu, **Yuxing Chen**, Anqun Pan, Xiaoyong Du.  
+  [[link]](https://dl.acm.org/doi/10.1145/3626765) SIGMOD 2024
+- "SALI: A Scalable Adaptive Learned Index Framework based on Probability Models"  
+  Jiake Ge, Huanchen Zhang, Boyu Shi, Yuanhui Luo, Yunda Guo, Yunpeng Chai, **Yuxing Chen**, and Anqun Pan.   
+  [[link]](https://dl.acm.org/doi/10.1145/3626752) SIGMOD 2024
 - "TDSQL: Tencent Distributed Database System"   
    **Yuxing Chen**, Anqun Pan, Hailin Lei, Anda Ye, Shuo Han, Yan Tang, Wei Lu, Yunpeng Chai, Feng Zhang, and Xiaoyong Du.  
   [[link]](https://dl.acm.org/doi/10.14778/3685800.3685812) VLDB 2024
-- "SALI: A Scalable Adaptive Learned Index Framework based on Probability Models"
-  Jiake Ge, Huanchen Zhang, Boyu Shi, Yuanhui Luo, Yunda Guo, Yunpeng Chai, **Yuxing Chen**, and Anqun Pan.  
-  [[link]](https://dl.acm.org/doi/10.1145/3626752) SIGMOD 2024
+- "FluidKV: Seamlessly Bridging the Gap between Indexing Performance and Memory-Footprint on Ultra-Fast Storage"   
+   Ziyi Lu, Qiang Cao, Hong Jiang,  **Yuxing Chen**, Jie Yao, Anqun Pan.  
+  [[link]](https://dl.acm.org/doi/10.14778/3648160.3648177) VLDB 2024
+- "Efficient and Accurate SimRank-Based Similarity Joins: Experiments, Analysis, and Improvement"  
+  Qian Ge, Yu Liu, Yinghao Zhao, Yuetian Sun, Lei Zou, **Yuxing Chen**, Anqun Pan.  
+  [[link]](https://dl.acm.org/doi/10.14778/3636218.3636219) VLDB 2024
+- "IsoVista: Black-Box Checking Database Isolation Guarantees"   
+   Long Gu, Si Liu, Tiancheng Xing, Hengfeng Wei, **Yuxing Chen**, David Basin.  
+  [[link]](https://dl.acm.org/doi/abs/10.14778/3685800.3685866) VLDB 2024
 - "IndeXY: A Framework for Constructing Indexes Larger than Memory"   
-   Chen Zhong, Qingqing Zhou, **Yuxing Chen**, Xingsheng Zhao, Kuang He, Anqun Pan, Song Jiang  
+   Chen Zhong, Qingqing Zhou, **Yuxing Chen**, Xingsheng Zhao, Kuang He, Anqun Pan, Song Jiang.  
   [[link]](https://ieeexplore.ieee.org/document/10598080) ICDE 2024
-<!--- - (ICDE 2024) [[link]](https://www.computer.org/csdl/proceedings-article/icde/2024/171500a516/1YOtYjA4kTu) Chen Zhong, Qingqing Zhou, **Yuxing Chen**, Xingsheng Zhao, Kuang He, Anqun Pan, Song Jiang. "IndeXY: A Framework for Constructing Indexes Larger than Memory." -->
-<!--- - (SIGMOD 2023) [[link]](https://dl.acm.org/doi/10.1145/3626752) Jiake Ge, Huanchen Zhang, Boyu Shi, Yuanhui Luo, Yunda Guo, Yunpeng Chai, **Yuxing Chen**, and Anqun Pan. "SALI: A Scalable Adaptive Learned Index Framework based on Probability Models." -->
+- "Lion: Minimizing Distributed Transactions Through Adaptive Replica Provision"   
+   Qiushi Zheng, Zhanhao Zhao, Wei Lu, Chang Yao, **Yuxing Chen**, Anqun Pan, Xiaoyong Du.  
+  [[link]](https://ieeexplore.ieee.org/document/10598008) ICDE 2024
+- "SimCost: Cost-effective Resource Provision Prediction and Recommendation for Spark Workloads"   
+   **Yuxing Chen**, Mohammad A. Hoque, Pengfei Xu, Jiaheng Lu, Sasu Tarkoma.  
+  [[link]](https://link.springer.com/article/10.1007/s10619-023-07436-y) DPD 2023
+- "Automatic Performance Tuning for Distributed Data Stream Processing Systems"   
+   Herodotos Herodotou, Lambros Odysseos, **Yuxing Chen**, Jiaheng Lu.   
+  [[link]](https://ieeexplore.ieee.org/document/9835493) ICDE 2022
 - "Cross-Model Conjunctive Queries over Relation and Tree-Structured Data"  
    **Yuxing Chen**, Valter Uotila, Jiaheng Lu, Zhen Hua Liu, and Souripriya Das.  
- [[link]](https://www.springerprofessional.de/en/cross-model-conjunctive-queries-over-relation-and-tree-structure/20346184) DASFAA 2022 
+  [[link]](https://www.springerprofessional.de/en/cross-model-conjunctive-queries-over-relation-and-tree-structure/20346184) DASFAA 2022 
 - "A Survey on Automatic Parameter Tuning for Big Data Processing Systems"  
   Herodotos Herodotou, **Yuxing Chen**, Jiaheng Lu.   
-  [[link]](https://ieeexplore.ieee.org/document/9835493) CSUR 2020 
+  [[link]](https://ieeexplore.ieee.org/document/9835493) CSUR 2020
+- "Speedup Your Analytics: Automatic Parameter Tuning for Databases and Big Data Systems"  
+  Jiaheng Lu, **Yuxing Chen**, Herodotos Herodotou, Shivnath Babu.  
+  [[link]](https://dl.acm.org/doi/10.14778/3352063.3352112) VLDB 2019
 - "d-Simplexed: Adaptive Delaunay Triangulation for Performance Modeling and Prediction on Big Data Analytics"  
   **Yuxing Chen**, Peter Goetsch, Mohammad Hoque, Jiaheng Lu, Sasu Tarkoma.  
-  [[link]](https://ieeexplore.ieee.org/document/8878273) IEEE Transaction on Big Data 2019 
+  [[link]](https://ieeexplore.ieee.org/document/8878273) IEEE TBD 2019 
 - "Cost-effective Resource Provisioning for Spark Workloads"  
   **Yuxing Chen**, Jiaheng Lu, Chen Chen, Mohammad Hoque, and Sasu Tarkoma.  
   [[link]](https://dl.acm.org/citation.cfm?id=3358090) CIKM 2019 
