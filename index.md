@@ -1,26 +1,23 @@
 <style>
-/* 全局终极覆盖，突破所有容器限制 */
-* {
-  max-width: 100% !important;
-  box-sizing: border-box !important;
+/* 1. 调整中间主体宽度，避开左侧侧边栏 */
+.main, .container, .page-content, .content, section {
+  max-width: 75% !important; /* 加宽到75%，比原来的1/3宽很多 */
+  width: 75% !important;
+  margin-left: auto !important; /* 让内容靠右对齐，避开左侧头像 */
+  margin-right: auto !important;
+  padding: 0 2rem !important;
 }
-html, body {
-  width: 100% !important;
-  max-width: 100% !important;
-  margin: 0 !important;
-  padding: 0 2% !important;
+
+/* 2. 防止文字贴边，同时避免撑得太宽 */
+body {
+  padding-left: 25% !important; /* 给左侧头像留出空间，避免重叠 */
+  padding-right: 5% !important;
+  line-height: 1.6 !important; /* 优化行高，阅读更轻松 */
 }
-/* 强制所有可能的外层容器宽度 */
-.wrapper, .page, .container, .main, .page-content, .content, main, section, article, div {
-  max-width: 96% !important;
-  width: 96% !important;
-  margin: 0 auto !important;
-  padding: 0 !important;
-}
-/* 优化论文列表阅读体验 */
+
+/* 3. 优化论文列表的行距，避免太挤 */
 li {
-  margin: 0.6em 0 !important;
-  line-height: 1.6 !important;
+  margin: 0.5rem 0 !important;
 }
 </style>
 
