@@ -1,19 +1,26 @@
 <style>
-/* 加宽页面主体，不再只占中间1/3 */
-.main, .container, .page-content, .content {
-  max-width: 85% !important;
-  width: 85% !important;
+/* 全局终极覆盖，突破所有容器限制 */
+* {
+  max-width: 100% !important;
+  box-sizing: border-box !important;
+}
+html, body {
+  width: 100% !important;
+  max-width: 100% !important;
+  margin: 0 !important;
+  padding: 0 2% !important;
+}
+/* 强制所有可能的外层容器宽度 */
+.wrapper, .page, .container, .main, .page-content, .content, main, section, article, div {
+  max-width: 96% !important;
+  width: 96% !important;
   margin: 0 auto !important;
-  padding: 0 1rem !important;
+  padding: 0 !important;
 }
-/* 全局左右小幅留白，文字不贴屏幕边缘 */
-body {
-  padding-left: 2%;
-  padding-right: 2%;
-}
-/* 优化长论文列表行间距，更易阅读 */
+/* 优化论文列表阅读体验 */
 li {
-  margin: 0.4rem 0;
+  margin: 0.6em 0 !important;
+  line-height: 1.6 !important;
 }
 </style>
 
