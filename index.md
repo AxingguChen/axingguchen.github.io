@@ -17,14 +17,29 @@
   [[link]](https://) VLDB 2026 (to appear) 
 - "TDSQL-Boundless: A Distributed Database System for Large-scale Heterogeneous Multi-Table Workloads"  
   **Yuxing Chen**, Jie Jiang, Xiaolong He, Ziyi Lu, Shuo Han, Anqun Pan, Chong Zhu, Chang Liu, Xuan Zhao, Yu Li, Yan Tang, Dongzhi Zhao, Wen Zhang, Hailin Lei, Lixiong Zheng, Feng Zhang, Mingde Zhang, Yiteng Chu, Wei Lu, Yunpeng Chai, Xiaoyong Du.  
-  [[link]](https://dl.acm.org/doi/10.1145/3788853.3803090) SIGMOD 2026  
+  [[link]](https://dl.acm.org/doi/10.1145/3788853.3803090) SIGMOD 2026
+- "Efficient Query Rewrite Rule Discovery via Standardized Enumeration and Learning-to-Rank"  
+  Yuan Zhang, **Yuxing Chen**, Yuekun Yu, Jinbin Huang, Rui Mao, Anqun Pan, Lixiong Zheng, Jianbin Qin.  
+  [[link]](https://arxiv.org/abs/2603.04169) ICDE 2026
 - "TXSQL: Lock Optimizations Towards High Contented Workloads"  
   Donghui Wang, **Yuxing Chen**, Chengyao Jiang, Anqun Pan, Wei Jiang, Songli Wang, Hailin Lei, Chong Zhu, Lixiong Zheng, Wei Lu, Yunpeng Chai, Feng Zhang, and Xiaoyong Du.  
-  [[link]](https://dl.acm.org/doi/10.1145/3722212.3724457) SIGMOD 2025  
+  [[link]](https://dl.acm.org/doi/10.1145/3722212.3724457) SIGMOD 2025
+- "Online Timestamp-Based Transactional Isolation Checking of Database Systems"  
+  Hexu Li, Hengfeng Wei, Hongrong Ouyang, **Yuxing Chen**, Na Yang, Ruohao Zhang, Anqun Pan.  
+  [[link]](https://ieeexplore.ieee.org/document/11113202) ICDE 2025
+- "Boosting End-to-End Database Isolation Checking via Mini-Transactions"  
+  Hengfeng Wei, Jiang Xiao, Na Yang, Si Liu, Zijing Yin, **Yuxing Chen**, Anqun Pan.  
+  [[link]](https://ieeexplore.ieee.org/document/11113167/) ICDE 2025
 <!--- - (ICDE 2025) Hengfeng Wei, Jiang Xiao, Na Yang, Si Liu, Zijing Yin, **Yuxing Chen**, Anqun Pan. "Boosting End-to-End Database Isolation Checking via Mini-Transactions"-->
 - "TDSQL: Tencent Distributed Database System"   
    **Yuxing Chen**, Anqun Pan, Hailin Lei, Anda Ye, Shuo Han, Yan Tang, Wei Lu, Yunpeng Chai, Feng Zhang, and Xiaoyong Du.  
-  [[link]](https://dl.acm.org/doi/10.14778/3685800.3685812) VLDB 2024 
+  [[link]](https://dl.acm.org/doi/10.14778/3685800.3685812) VLDB 2024
+- "SALI: A Scalable Adaptive Learned Index Framework based on Probability Models"
+  Jiake Ge, Huanchen Zhang, Boyu Shi, Yuanhui Luo, Yunda Guo, Yunpeng Chai, **Yuxing Chen**, and Anqun Pan.  
+  [[link]](https://dl.acm.org/doi/10.1145/3626752) SIGMOD 2024
+- "IndeXY: A Framework for Constructing Indexes Larger than Memory"   
+   Chen Zhong, Qingqing Zhou, **Yuxing Chen**, Xingsheng Zhao, Kuang He, Anqun Pan, Song Jiang  
+  [[link]](https://ieeexplore.ieee.org/document/10598080) ICDE 2024
 <!--- - (ICDE 2024) [[link]](https://www.computer.org/csdl/proceedings-article/icde/2024/171500a516/1YOtYjA4kTu) Chen Zhong, Qingqing Zhou, **Yuxing Chen**, Xingsheng Zhao, Kuang He, Anqun Pan, Song Jiang. "IndeXY: A Framework for Constructing Indexes Larger than Memory." -->
 <!--- - (SIGMOD 2023) [[link]](https://dl.acm.org/doi/10.1145/3626752) Jiake Ge, Huanchen Zhang, Boyu Shi, Yuanhui Luo, Yunda Guo, Yunpeng Chai, **Yuxing Chen**, and Anqun Pan. "SALI: A Scalable Adaptive Learned Index Framework based on Probability Models." -->
 - "Cross-Model Conjunctive Queries over Relation and Tree-Structured Data"  
