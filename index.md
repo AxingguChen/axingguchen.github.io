@@ -1,36 +1,26 @@
 <style>
-/* 1. 修正核心：让主体内容避开侧边栏，同时加宽 */
-.main, .container, .page-content, .content, section {
-  max-width: calc(100% - 280px) !important; /* 给左侧头像留出固定宽度 */
-  width: calc(100% - 280px) !important;
-  margin-left: 260px !important; /* 让内容从头像右侧开始 */
-  margin-right: 40px !important;
-  padding: 0 !important;
-  float: none !important;
+/* 全局终极覆盖，突破所有容器限制 */
+* {
+  max-width: 100% !important;
+  box-sizing: border-box !important;
 }
-
-/* 2. 修正 body 的边距，避免把内容挤到右边 */
-body {
-  padding-left: 0 !important;
-  padding-right: 0 !important;
+html, body {
+  width: 100% !important;
+  max-width: 100% !important;
   margin: 0 !important;
-  line-height: 1.6 !important;
+  padding: 0 2% !important;
 }
-
-/* 3. 优化列表行距，论文列表更清晰 */
+/* 强制所有可能的外层容器宽度 */
+.wrapper, .page, .container, .main, .page-content, .content, main, section, article, div {
+  max-width: 75% !important;
+  width: 75% !important;
+  margin: 0 auto !important;
+  padding: 0 !important;
+}
+/* 优化论文列表阅读体验 */
 li {
-  margin: 0.5rem 0 !important;
-}
-
-/* 4. 防止移动端错乱 */
-@media (max-width: 768px) {
-  .main, .container, .page-content, .content, section {
-    max-width: 100% !important;
-    width: 100% !important;
-    margin-left: 0 !important;
-    margin-right: 0 !important;
-    padding: 0 1rem !important;
-  }
+  margin: 0.6em 0 !important;
+  line-height: 1.6 !important;
 }
 </style>
 
