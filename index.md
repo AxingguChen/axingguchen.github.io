@@ -1,23 +1,36 @@
 <style>
-/* 1. 调整中间主体宽度，避开左侧侧边栏 */
+/* 1. 修正核心：让主体内容避开侧边栏，同时加宽 */
 .main, .container, .page-content, .content, section {
-  max-width: 75% !important; /* 加宽到75%，比原来的1/3宽很多 */
-  width: 75% !important;
-  margin-left: auto !important; /* 让内容靠右对齐，避开左侧头像 */
-  margin-right: auto !important;
-  padding: 0 2rem !important;
+  max-width: calc(100% - 280px) !important; /* 给左侧头像留出固定宽度 */
+  width: calc(100% - 280px) !important;
+  margin-left: 260px !important; /* 让内容从头像右侧开始 */
+  margin-right: 40px !important;
+  padding: 0 !important;
+  float: none !important;
 }
 
-/* 2. 防止文字贴边，同时避免撑得太宽 */
+/* 2. 修正 body 的边距，避免把内容挤到右边 */
 body {
-  padding-left: 25% !important; /* 给左侧头像留出空间，避免重叠 */
-  padding-right: 5% !important;
-  line-height: 1.6 !important; /* 优化行高，阅读更轻松 */
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+  margin: 0 !important;
+  line-height: 1.6 !important;
 }
 
-/* 3. 优化论文列表的行距，避免太挤 */
+/* 3. 优化列表行距，论文列表更清晰 */
 li {
   margin: 0.5rem 0 !important;
+}
+
+/* 4. 防止移动端错乱 */
+@media (max-width: 768px) {
+  .main, .container, .page-content, .content, section {
+    max-width: 100% !important;
+    width: 100% !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+    padding: 0 1rem !important;
+  }
 }
 </style>
 
