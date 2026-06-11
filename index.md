@@ -1,3 +1,22 @@
+<style>
+/* 加宽页面主体，不再只占中间1/3 */
+.main, .container, .page-content, .content {
+  max-width: 85% !important;
+  width: 85% !important;
+  margin: 0 auto !important;
+  padding: 0 1rem !important;
+}
+/* 全局左右小幅留白，文字不贴屏幕边缘 */
+body {
+  padding-left: 2%;
+  padding-right: 2%;
+}
+/* 优化长论文列表行间距，更易阅读 */
+li {
+  margin: 0.4rem 0;
+}
+</style>
+
 [comment]: # (Short bio)
 
 #### Research interests
