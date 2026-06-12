@@ -4,41 +4,40 @@ html, body {
   width: 100% !important;
   max-width: 100% !important;
   margin: 0 !important;
-  padding: 0 3% !important;
+  padding: 0 2% !important;
 }
 
 .wrapper {
-  max-width: 95% !important;
-  width: 95% !important;
+  max-width: 98% !important;
+  width: 98% !important;
   margin: 0 auto !important;
 }
 
-/* 2. 关键修复：给正文设置左边距，避开图片 */
-/* 让正文从图片右侧开始，留出足够空间 */
+/* 2. 关键修复：正文从图片右侧开始，只留一点间距 */
 .wrapper > div:last-child {
-  margin-left: 280px !important; /* 这个值要大于你的图片宽度+间距 */
+  margin-left: 270px !important; /* 比图片宽度大一点点，刚好挨着 */
 }
 
-/* 3. 固定头像区域，防止和正文重叠 */
+/* 3. 固定头像区域 */
 .wrapper > div:first-child {
   position: absolute !important;
   top: 40px;
-  left: 3%; /* 和body的padding保持一致 */
+  left: 2%; /* 和body的padding保持一致 */
 }
 
-/* 4. 优化图片显示，避免变形 */
+/* 4. 固定图片宽度 */
 .wrapper > div:first-child img {
-  width: 220px; /* 你图片的实际宽度，可按需调整 */
+  width: 220px;
   height: auto;
 }
 
 /* 5. 优化论文列表阅读体验 */
 li {
-  margin: 0.8em 0 !important;
-  line-height: 1.7 !important;
+  margin: 0.6em 0 !important;
+  line-height: 1.6 !important;
 }
 
-/* 6. 适配手机端，自动变回单栏布局 */
+/* 6. 适配手机端 */
 @media (max-width: 768px) {
   .wrapper > div:first-child {
     position: static !important;
