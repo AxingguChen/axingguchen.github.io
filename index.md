@@ -1,49 +1,52 @@
 <style>
-/* 1. 修正整体 wrapper，恢复原布局 */
-.wrapper {
+/* 1. 加宽整个页面，减少左右空白 */
+html, body {
   width: 100% !important;
   max-width: 100% !important;
+  margin: 0 !important;
+  padding: 0 3% !important;
+}
+
+.wrapper {
+  max-width: 95% !important;
+  width: 95% !important;
   margin: 0 auto !important;
-  padding: 0 !important;
-  display: flex !important; /* 用 flex 布局固定两栏 */
-  align-items: flex-start !important;
 }
 
-/* 2. 调整左侧 header（头像栏），固定宽度靠左 */
-header {
-  width: 250px !important; /* 固定头像栏宽度 */
-  min-width: 250px !important; /* 防止被压缩 */
-  margin: 0 !important;
-  padding: 2rem !important;
+/* 2. 关键修复：给正文设置左边距，避开图片 */
+/* 让正文从图片右侧开始，留出足够空间 */
+.wrapper > div:last-child {
+  margin-left: 280px !important; /* 这个值要大于你的图片宽度+间距 */
 }
 
-/* 3. 调整右侧 section（正文），占满剩余宽度 */
-section {
-  flex: 1 !important; /* 自动占满 header 以外的所有空间 */
-  width: auto !important;
-  max-width: none !important; /* 取消之前限制 */
-  margin: 0 !important;
-  padding: 2rem !important;
+/* 3. 固定头像区域，防止和正文重叠 */
+.wrapper > div:first-child {
+  position: absolute !important;
+  top: 40px;
+  left: 3%; /* 和body的padding保持一致 */
 }
 
-/* 4. 优化论文列表阅读体验 */
+/* 4. 优化图片显示，避免变形 */
+.wrapper > div:first-child img {
+  width: 220px; /* 你图片的实际宽度，可按需调整 */
+  height: auto;
+}
+
+/* 5. 优化论文列表阅读体验 */
 li {
-  margin: 0.6em 0 !important;
-  line-height: 1.6 !important;
+  margin: 0.8em 0 !important;
+  line-height: 1.7 !important;
 }
 
-/* 5. 移动端适配，恢复单列布局 */
+/* 6. 适配手机端，自动变回单栏布局 */
 @media (max-width: 768px) {
-  .wrapper {
-    flex-direction: column !important;
+  .wrapper > div:first-child {
+    position: static !important;
+    text-align: center;
+    margin-bottom: 20px;
   }
-  header {
-    width: 100% !important;
-    text-align: center !important;
-  }
-  section {
-    width: 100% !important;
-    padding: 1rem !important;
+  .wrapper > div:last-child {
+    margin-left: 0 !important;
   }
 }
 </style>
