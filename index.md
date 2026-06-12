@@ -1,26 +1,50 @@
 <style>
-/* 全局终极覆盖，突破所有容器限制 */
-* {
-  max-width: 100% !important;
-  box-sizing: border-box !important;
-}
-html, body {
+/* 1. 修正整体 wrapper，恢复原布局 */
+.wrapper {
   width: 100% !important;
   max-width: 100% !important;
-  margin: 0 !important;
-  padding: 0 2% !important;
-}
-/* 强制所有可能的外层容器宽度 */
-.wrapper, .page, .container, .main, .page-content, .content, main, section, article, div {
-  max-width: 75% !important;
-  width: 75% !important;
   margin: 0 auto !important;
   padding: 0 !important;
+  display: flex !important; /* 用 flex 布局固定两栏 */
+  align-items: flex-start !important;
 }
-/* 优化论文列表阅读体验 */
+
+/* 2. 调整左侧 header（头像栏），固定宽度靠左 */
+header {
+  width: 250px !important; /* 固定头像栏宽度 */
+  min-width: 250px !important; /* 防止被压缩 */
+  margin: 0 !important;
+  padding: 2rem !important;
+}
+
+/* 3. 调整右侧 section（正文），占满剩余宽度 */
+section {
+  flex: 1 !important; /* 自动占满 header 以外的所有空间 */
+  width: auto !important;
+  max-width: none !important; /* 取消之前限制 */
+  margin: 0 !important;
+  padding: 2rem !important;
+}
+
+/* 4. 优化论文列表阅读体验 */
 li {
   margin: 0.6em 0 !important;
   line-height: 1.6 !important;
+}
+
+/* 5. 移动端适配，恢复单列布局 */
+@media (max-width: 768px) {
+  .wrapper {
+    flex-direction: column !important;
+  }
+  header {
+    width: 100% !important;
+    text-align: center !important;
+  }
+  section {
+    width: 100% !important;
+    padding: 1rem !important;
+  }
 }
 </style>
 
