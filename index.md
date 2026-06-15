@@ -1,50 +1,50 @@
 <style>
-/* 1. 加宽整个页面，减少左右空白 */
-html, body {
-  width: 100% !important;
-  max-width: 100% !important;
-  margin: 0 !important;
-  padding: 0 2% !important;
-}
-
+/* 1. 加宽整个页面，按笔记本屏幕自适应，减少左右大块留白 */
 .wrapper {
-  max-width: 98% !important;
-  width: 98% !important;
+  width: 92% !important;
+  max-width: 1180px !important;
   margin: 0 auto !important;
 }
 
-/* 2. 关键修复：正文从图片右侧开始，只留一点间距 */
-.wrapper > div:last-child {
-  margin-left: 270px !important; /* 比图片宽度大一点点，刚好挨着 */
+/* 2. 左侧头像栏：固定较窄的宽度 */
+header {
+  width: 230px !important;
+}
+header img {
+  width: 200px !important;
+  height: auto !important;
 }
 
-/* 3. 固定头像区域 */
-.wrapper > div:first-child {
-  position: absolute !important;
-  top: 40px;
-  left: 2%; /* 和body的padding保持一致 */
+/* 3. 关键修复：正文紧贴头像右侧并撑满剩余宽度
+   （minimal 主题真实结构是 header + section，原来的 div 选择器没生效，
+    导致 section 仍按默认 float:right 被顶到最右，中间空出一大块） */
+section {
+  float: none !important;
+  width: auto !important;
+  max-width: none !important;
+  margin-left: 270px !important; /* 头像宽度 + 一点间距，刚好挨着 */
+  padding-bottom: 50px;
 }
 
-/* 4. 固定图片宽度 */
-.wrapper > div:first-child img {
-  width: 220px;
-  height: auto;
-}
-
-/* 5. 优化论文列表阅读体验 */
+/* 4. 优化论文列表阅读体验 */
 li {
   margin: 0.6em 0 !important;
   line-height: 1.6 !important;
 }
 
-/* 6. 适配手机端 */
-@media (max-width: 768px) {
-  .wrapper > div:first-child {
+/* 5. 适配窄屏 / 手机端：头像与正文上下排列 */
+@media print, screen and (max-width: 960px) {
+  header {
     position: static !important;
+    float: none !important;
+    width: auto !important;
     text-align: center;
     margin-bottom: 20px;
   }
-  .wrapper > div:last-child {
+  header img {
+    width: 200px !important;
+  }
+  section {
     margin-left: 0 !important;
   }
 }
