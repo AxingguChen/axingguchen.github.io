@@ -67,6 +67,9 @@ li {
 - "Reaching the Pinnacle of TPC-DS: Co-design of Architecture, Executor, and Storage in TDSQL"  
   Yiteng Chu, Jie Jiang, **Yuxing Chen**, Feng Zhang, Yuxin Tang, Anqun Pan, Xin Wu, Xiang Hu, Hailin Lei, Qian Zhang, Ziyan Lin, Xiaoliang Yan, Xiaojian Fan, Liang Zhang, Bin Qu, Wen Zhang, Mengbang Xing, Lixiong Zheng, Wei Lu, Yunpeng Chai, Xiaoyong Du.  
   [[link]](https://) VLDB 2026 (to appear)
+- "Fuzz4DB: A Practice of LLM-Agent-Guided Fuzzing for Database Feature-Level Delta Testing"  
+  Chunling Qin, Yong Hu, Xiao Zhang, Jinchuan Chen, Fangtao Gu, Baoxun Wang, **Yuxing Chen**, Anqun Pan, and Lixiong Zheng.   
+  [[link]](https://) ASE 2026 (to appear)
 - "Fast Verification of Strong Database Isolation"  
   Zhiheng Cai, Si Liu, Hengfeng Wei, **Yuxing Chen**, Anqun Pan.  
   [[link]](https://dl.acm.org/doi/10.14778/3785297.3785300) VLDB 2026
@@ -82,6 +85,12 @@ li {
 - "Efficient Query Rewrite Rule Discovery via Standardized Enumeration and Learning-to-Rank"  
   Yuan Zhang, **Yuxing Chen**, Yuekun Yu, Jinbin Huang, Rui Mao, Anqun Pan, Lixiong Zheng, Jianbin Qin.  
   [[link]](https://arxiv.org/abs/2603.04169) ICDE 2026
+- "Telescope: A Learned What-If Call for ColumnStore Selection in HTAP Databases"  
+  Yidong Zhang, Chao Zhang, Zhengkun Wu, Ju Fan, Xinyi Zhang, Hong Chen, **Yuxing Chen**, Anqun Pan.  
+  [[link]](https://icde2026.github.io/accepted-papers.html) ICDE 2026
+- "Doux: Decoupling Values from Keys for Real-Time Analytics"  
+  Shiming Yang, Yu Luo, Shuang Liu, Wei Lu, Kuien Liu, **Yuxing Chen**, Anqun Pan, Lixiong Zheng, Xiaoyong Du.  
+  [[link]](https://icde2026.github.io/accepted-papers.html) ICDE 2026
 - "TXSQL: Lock Optimizations Towards High Contented Workloads"  
   Donghui Wang, **Yuxing Chen**, Chengyao Jiang, Anqun Pan, Wei Jiang, Songli Wang, Hailin Lei, Chong Zhu, Lixiong Zheng, Wei Lu, Yunpeng Chai, Feng Zhang, and Xiaoyong Du.  
   [[link]](https://dl.acm.org/doi/10.1145/3722212.3724457) SIGMOD 2025
@@ -181,11 +190,7 @@ li {
 #### Contact
 - axinggu (at) gmail (dot) com
 
-<!--- <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=-nE-NiCSCd9vICliUEi2sGRRJpIC5GhYQOC0k5xWVLM&cl=ffffff&w=a"></script> -->
-
-<a href="https://clustrmaps.com/site/1c6pi"  title="ClustrMaps"  style="display: none;"><img src="//www.clustrmaps.com/map_v2.png?d=-nE-NiCSCd9vICliUEi2sGRRJpIC5GhYQOC0k5xWVLM&cl=ffffff" /></a> 
-
 
 ------------
 
-_Last update in June 2026_
+_Last update in July 2026_
