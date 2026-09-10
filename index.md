@@ -56,7 +56,8 @@ li {
 - Database, big data management
 
 #### Working
-- [2021.04 ~ now] Research engineer at TDSQL, Tencent Inc., China 
+- [2026.08 ~ now] Lecturer, Renmin University of China, China 
+- [2021.04 ~ 2026.08] Research engineer at TDSQL, Tencent Inc., China 
 
 #### Backgrounds
 - [2017.03 ~ 2021.12] Ph.D. in multi-model and big data management (supervised by [[Jiaheng Lu]](https://www.cs.helsinki.fi/u/jilu/)), University of Helsinki, Finland
@@ -66,10 +67,10 @@ li {
 #### Publications [[Scholar]](https://scholar.google.com/citations?user=9nOJIrIAAAAJ&hl) [[DBLP]](https://dblp.org/pid/142/2150-3.html)
 - "Reaching the Pinnacle of TPC-DS: Co-design of Architecture, Executor, and Storage in TDSQL"  
   Yiteng Chu, Jie Jiang, **Yuxing Chen**, Feng Zhang, Yuxin Tang, Anqun Pan, Xin Wu, Xiang Hu, Hailin Lei, Qian Zhang, Ziyan Lin, Xiaoliang Yan, Xiaojian Fan, Liang Zhang, Bin Qu, Wen Zhang, Mengbang Xing, Lixiong Zheng, Wei Lu, Yunpeng Chai, Xiaoyong Du.  
-  [[link]](https://) VLDB 2026 (to appear)
+  [[link]](https://www.vldb.org/pvldb/vol19/p4009-chu.pdf) VLDB 2026
 - "Fuzz4DB: A Practice of LLM-Agent-Guided Fuzzing for Database Feature-Level Delta Testing"  
   Chunling Qin, Yong Hu, Xiao Zhang, Jinchuan Chen, Fangtao Gu, Baoxun Wang, **Yuxing Chen**, Anqun Pan, and Lixiong Zheng.   
-  [[link]](https://) ASE 2026 (to appear)
+  [[link]](https://conf.researchr.org/details/ase-2026/ase-2026-industry-showcase/36/Fuzz4DB-A-Practice-of-LLM-Agent-Guided-Fuzzing-for-Database-Feature-Level-Delta-Test) ASE 2026
 - "Fast Verification of Strong Database Isolation"  
   Zhiheng Cai, Si Liu, Hengfeng Wei, **Yuxing Chen**, Anqun Pan.  
   [[link]](https://dl.acm.org/doi/10.14778/3785297.3785300) VLDB 2026
@@ -193,4 +194,4 @@ li {
 
 ------------
 
-_Last update in July 2026_
+_Last update in Sep 2026_
