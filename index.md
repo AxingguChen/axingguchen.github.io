@@ -56,7 +56,7 @@ li {
 - Database, big data management
 
 #### Working
-- [2026.08 ~ now] Lecturer, Renmin University of China, China 
+- [2026.08 ~ now] Assistant professor, Renmin University of China, China 
 - [2021.04 ~ 2026.08] Research engineer at TDSQL, Tencent Inc., China 
 
 #### Backgrounds
