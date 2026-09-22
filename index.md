@@ -54,8 +54,10 @@ li {
 
 
 <span style="color:red">**PhD & Master Student Positions Open:** 
+
 We are continuously seeking highly motivated Master and PhD students to join our research group.
 If you are interested, please get in touch with me. 
+
 </span>
 
 #### Research interests
