@@ -52,6 +52,12 @@ li {
 
 [comment]: # (Short bio)
 
+
+<span style="color:red">**PhD & Master Student Positions Open:** 
+We are continuously seeking highly motivated Master and PhD students to join our research group.
+If you are interested, please get in touch with me. 
+</span>
+
 #### Research interests
 - Database, big data management
 
@@ -63,6 +69,8 @@ li {
 - [2017.03 ~ 2021.12] Ph.D. in multi-model and big data management (supervised by [[Jiaheng Lu]](https://www.cs.helsinki.fi/u/jilu/)), University of Helsinki, Finland
 - [2014.09 ~ 2016.12] MSc. in Computer Science and Engineering, Politecnico di Milano, Italy
 - [2010.09 ~ 2014.06] BSc. in Information and Computing Science, Guangdong University of Technology, China
+
+
 
 #### Publications [[Scholar]](https://scholar.google.com/citations?user=9nOJIrIAAAAJ&hl) [[DBLP]](https://dblp.org/pid/142/2150-3.html)
 - "Reaching the Pinnacle of TPC-DS: Co-design of Architecture, Executor, and Storage in TDSQL"  
@@ -189,7 +197,7 @@ li {
 
 
 #### Contact
-- axinggu (at) gmail (dot) com
+- axinggu (at) ruc (dot) edu (dot) cn
 
 
 ------------
