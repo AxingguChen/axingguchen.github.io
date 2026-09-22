@@ -53,18 +53,11 @@ li {
 [comment]: # (Short bio)
 
 
-<span style="color:red">**PhD & Master Student Positions Open:** 
-
-We are continuously seeking highly motivated Master and PhD students to join our research group.
-If you are interested, please get in touch with me. 
-
-</span>
-
 #### Research interests
 - Database, big data management
 
 #### Working
-- [2026.08 ~ now] Assistant professor, Renmin University of China, China 
+- [2026.08 ~ now] Assistant professor, Renmin University of China, China <strong style="color: #d32f2f;"> (I am recruiting Ph.D. and Master's candidates at RUC.)</strong>
 - [2021.04 ~ 2026.08] Research engineer at TDSQL, Tencent Inc., China 
 
 #### Backgrounds
