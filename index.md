@@ -57,7 +57,7 @@ li {
 - Database, big data management
 
 #### Working
-- [2026.08 ~ now] Assistant professor, Renmin University of China, China <strong style="color: #d32f2f;"> (I am recruiting Ph.D. and Master's candidates at RUC.)</strong>
+- [2026.08 ~ now] Assistant professor, Renmin University of China, China <strong style="color: #d32f2f;"> (recruiting Ph.D. and Master's candidates at RUC.)</strong>
 - [2021.04 ~ 2026.08] Research engineer at TDSQL, Tencent Inc., China 
 
 #### Backgrounds
